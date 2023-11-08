@@ -1,4 +1,3 @@
-import math
 num1 = int(2)
 num2 = int(3)
 
